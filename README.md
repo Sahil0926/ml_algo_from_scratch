@@ -1,7 +1,9 @@
 # ml_algo_from_scratch
-- KNN
-- Linear regression
-- Logisctic regeression
+- KNN (done)
+- Linear regression (done)
+    -- TODO: ridge and lasso
+- Logisctic regeression (done)
+- Kmeans
 - Decision tree
 - PCA
 - Perceptron
